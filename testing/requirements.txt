@@ -1,0 +1,7 @@
+mss
+numpy
+opencv-python
+mediapipe
+tensorflow
+scikit-learn
+hypothesis
